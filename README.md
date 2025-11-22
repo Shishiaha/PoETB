@@ -2,7 +2,7 @@
 PoE Trade Button, Direct live search clicker for PoE 1 &amp; 2.
 
 
-This extension is provided to you freely. It enables clicking Direct Whisper & Teleport to hideout buttons only from live search directly in your tabs. It is only supported and tested with Chrome. This is work in progress.
+This extension is provided to you freely. It enables clicking Direct Whisper & Teleport to hideout buttons only from live search directly in your tabs. It is only supported and tested with Chrome & Brave. This is work in progress.
 
 Settings :
 
@@ -17,7 +17,7 @@ DISCLAIMER : I have no idea if it goes against the GGG Terms of usage, i have no
 _______________________________________________________________________________________________________________________________________
 
 
-Cette extension est gratuite. Elle permet de cliquer automatiquement sur les boutons whisper et hideout dans vos live search uniquement, pour tous les onglets. Elle est testée uniquement avec Chrome. Ça reste du work in progress.
+Cette extension est gratuite. Elle permet de cliquer automatiquement sur les boutons whisper et hideout dans vos live search uniquement, pour tous les onglets. Elle est testée uniquement avec Chrome & Brave. Ça reste du work in progress.
 
 Paramètres :
 
