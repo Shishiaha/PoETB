@@ -1,0 +1,13 @@
+PoETB 1.3 - PoE 1&2 Live button clicker
+
+Cette extension est gratuite. Elle permet de cliquer automatiquement sur les boutons whisper et hideout dans vos live search uniquement, pour tous les onglets. Elle est testée uniquement avec Chrome. Ça reste du work in progress.
+
+Paramètres :
+
+- Activer On/Off
+- Délai du clic (ms)
+- Pause en cas de téléportation (ms) : L'extension se met en pause si elle pense qu'une téléportation dans un hideout est en cours.
+
+Il peut y avoir beaucoup de bugs, c'est encore en dev.
+
+ATTENTION : Je ne sais pas si c'est autorisé par GGG ou si cela va à l'encontre des termes d'utilisation. Aucune action côté serveur n'est effectuée ni dans le jeu. Uniquement dans le navigateur. Utilisez le à vos risques. Ne me tenez pas responsable en cas de ban ou autre.
