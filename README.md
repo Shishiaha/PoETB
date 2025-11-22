@@ -14,6 +14,8 @@ It may contain a lot of bugs and issues. It is a very early release.
 
 DISCLAIMER : I have no idea if it goes against the GGG Terms of usage, i have no idea if you can be banned for this tool. It does not operate server side actions, game actions, or multiple actions at once. It only works inside the browser as a simple extension. Use it at your own risks.
 
+For GGG : I emailed support to ask authorization. It seems to be grey area. I made it open source so everything can be checked. It only works inside the browser and never touch the game or the servers/api. Feel free to warn me if anything needs to be corrected.
+
 _______________________________________________________________________________________________________________________________________
 
 
