@@ -3,12 +3,14 @@
   "name": "PoETB - PoE 1&2 Live button clicker 1.3",
   "version": "1.3",
   "description": "Automatically clicks the 'Teleport to hideout'/'Direct Whisper' buttons on Path of Exile Live search with configurable delay and teleport pausing.",
-  "permissions": ["scripting", "activeTab", "storage"],
+  "permissions": ["scripting", "activeTab", "storage", "webNavigation"],
+  "host_permissions": ["https://www.pathofexile.com/*"],
   "content_scripts": [
     {
       "matches": ["https://www.pathofexile.com/trade/search/*", "https://www.pathofexile.com/trade2/search/*"],
       "js": ["content.js"],
-      "run_at": "document_idle"
+      "run_at": "document_idle",
+	  "all_frames": true
     }
   ],
   "background": {
